@@ -1,0 +1,6 @@
+Installer bien
+nmap-7.92-setup.exe a trouver sur google car il est trop lour pour le mettre dans le github
+et 
+npcap-1.60.exe
+vous pourrez ensuite lancer le tool
+VOUS NE DEVEZ PAS LES INSTALLER SI VOUS ETES SUR LINUX 
